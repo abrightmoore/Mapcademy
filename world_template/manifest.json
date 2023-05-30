@@ -1,0 +1,22 @@
+{
+  "header": {
+    "pack_id": "AB100001-ABAB-ABAB-ABAB-200000000008",
+    "name": "Mapcademy Year One",
+    "description": "by @TheWorldFoundry",
+    "packs_version": "1.0.3",
+    "modules": [
+      {
+        "description": "Mapcademy",
+        "version": "1.0.3",
+        "uuid": "AB100001-ABAB-ABAB-ABAB-000000000008",
+        "type": "world_template"
+      }
+    ],
+    "metadata": {
+      "authors": [
+        "@theworldfoundry"
+      ],
+      "url": "http://www.theworldfoundry.com"
+    }
+  }
+}
